@@ -2602,8 +2602,8 @@ http-errors@~1.6.2:
     statuses ">= 1.4.0 < 2"
 
 http-proxy@1.15.2:
-  version "1.18.1"
-  resolved "https://registry.yarnpkg.com/http-proxy/-/http-proxy-1.18.1.tgz#642fdcaffe52d3448d2bda3b0079e9409064da31"
+  version "1.15.2"
+  resolved "https://registry.yarnpkg.com/http-proxy/-/http-proxy-1.15.2.tgz#642fdcaffe52d3448d2bda3b0079e9409064da31"
   integrity sha1-ZC/cr/5S00SNK9o7AHnpQJBk2jE=
   dependencies:
     eventemitter3 "1.x.x"
@@ -3624,9 +3624,9 @@ no-case@^2.2.0:
     lower-case "^1.1.1"
 
 node-fetch@^2.6.0:
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.0.tgz#e633456386d4aa55863f676a7ab0daa8fdecb0fd"
-  integrity sha512-8dG4H5ujfvFiqDmVu9fQ5bOHUC15JMjMY/Zumv26oOvvVJjM67KF8koCWIabKQ1GJIa9r2mMZscBq/TbdOcmNA==
+  version "2.6.1"
+  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.1.tgz#045bd323631f76ed2e2b55573394416b639a0052"
+  integrity sha512-V4aYg89jEoVRxRb2fJdAg8FHvI7cEyYdVAh94HH0UIK8oJxUfkjlDQN9RbMx+bEjP7+ggMiFRprSti032Oipxw==
 
 node-loggly-bulk@^2.2.4:
   version "2.2.4"
@@ -5773,7 +5773,7 @@ yallist@^3.0.0, yallist@^3.0.3:
   integrity sha512-S+Zk8DEWE6oKpV+vI3qWkaK+jSbIK86pCwe2IF/xwIpQ8jEuxpw9NyaGjmp9+BoJv5FV2piqCDcoCtStppiq2A==
 
 yargs-parser@^4.1.0, yargs-parser@^4.2.0:
-  version "13.1.2"
+  version "4.2.1"
   resolved "https://registry.yarnpkg.com/yargs-parser/-/yargs-parser-4.2.1.tgz#29cceac0dc4f03c6c87b4a9f217dd18c9f74871c"
   integrity sha1-KczqwNxPA8bIe0qfIX3RjJ90hxw=
   dependencies:
